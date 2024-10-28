@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['_7eita2string',['~ITA2String',['../class_i_t_a2_string.html#afde24c931997581878953660192e09a2',1,'ITA2String']]]
+  ['xtal_708',['XTAL',['../class_l_r11x0.html#a3ccfd35d26960457214d2a0192d6b312',1,'LR11x0::XTAL()'],['../class_s_x126x.html#ada0fe6c3d31885952b439135cf0c18f1',1,'SX126x::XTAL()']]]
 ];

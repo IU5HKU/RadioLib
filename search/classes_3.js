@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['iserial',['ISerial',['../class_i_serial.html',1,'']]],
-  ['ita2string',['ITA2String',['../class_i_t_a2_string.html',1,'']]]
+  ['datarate_5ft_723',['DataRate_t',['../union_data_rate__t.html',1,'']]]
 ];
