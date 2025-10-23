@@ -14,17 +14,21 @@ var hierarchy =
     [ "ChannelScanConfig_t", "union_channel_scan_config__t.html", null ],
     [ "DataRate_t", "union_data_rate__t.html", null ],
     [ "FSK4Client", "class_f_s_k4_client.html", null ],
+    [ "FSKPacketConfig_t", "struct_f_s_k_packet_config__t.html", null ],
     [ "FSKRate_t", "struct_f_s_k_rate__t.html", null ],
     [ "ITA2String", "class_i_t_a2_string.html", null ],
+    [ "LoRaPacketConfig_t", "struct_lo_ra_packet_config__t.html", null ],
     [ "LoRaRate_t", "struct_lo_ra_rate__t.html", null ],
     [ "LoRaWANBand_t", "struct_lo_ra_w_a_n_band__t.html", null ],
     [ "LoRaWANBandNum_t", "struct_lo_ra_w_a_n_band_num__t.html", null ],
     [ "LoRaWANChannel_t", "struct_lo_ra_w_a_n_channel__t.html", null ],
     [ "LoRaWANChannelSpan_t", "struct_lo_ra_w_a_n_channel_span__t.html", null ],
+    [ "LoRaWANDataRate_t", "struct_lo_ra_w_a_n_data_rate__t.html", null ],
     [ "LoRaWANEvent_t", "struct_lo_ra_w_a_n_event__t.html", null ],
     [ "LoRaWANJoinEvent_t", "struct_lo_ra_w_a_n_join_event__t.html", null ],
     [ "LoRaWANMacCommand_t", "struct_lo_ra_w_a_n_mac_command__t.html", null ],
     [ "LoRaWANNode", "class_lo_ra_w_a_n_node.html", null ],
+    [ "LoRaWANPackage_t", "struct_lo_ra_w_a_n_package__t.html", null ],
     [ "LR11x0GnssAlmanacStatus_t", "struct_l_r11x0_gnss_almanac_status__t.html", null ],
     [ "LR11x0GnssAlmanacStatusPart_t", "struct_l_r11x0_gnss_almanac_status_part__t.html", null ],
     [ "LR11x0GnssPosition_t", "struct_l_r11x0_gnss_position__t.html", null ],
@@ -36,10 +40,12 @@ var hierarchy =
         [ "LR11x0WifiResultExtended_t", "struct_l_r11x0_wifi_result_extended__t.html", null ]
       ] ]
     ] ],
+    [ "LrFhssPacketConfig_t", "struct_lr_fhss_packet_config__t.html", null ],
     [ "LrFhssRate_t", "struct_lr_fhss_rate__t.html", null ],
     [ "Module", "class_module.html", [
       [ "STM32WLx_Module", "class_s_t_m32_w_lx___module.html", null ]
     ] ],
+    [ "PacketConfig_t", "union_packet_config__t.html", null ],
     [ "PagerClient", "class_pager_client.html", null ],
     [ "PhysicalLayer", "class_physical_layer.html", [
       [ "CC1101", "class_c_c1101.html", null ],
@@ -93,10 +99,7 @@ var hierarchy =
     [ "RadioLibConvCode", "class_radio_lib_conv_code.html", null ],
     [ "RadioLibCRC", "class_radio_lib_c_r_c.html", null ],
     [ "RadioLibHal", "class_radio_lib_hal.html", [
-      [ "EspHal", "class_esp_hal.html", null ],
-      [ "PiHal", "class_pi_hal.html", null ],
-      [ "PicoHal", "class_pico_hal.html", null ],
-      [ "TockHal", "class_tock_hal.html", null ]
+      [ "PiHal", "class_pi_hal.html", null ]
     ] ],
     [ "RadioLibPrint", "class_radio_lib_print.html", [
       [ "BellClient", "class_bell_client.html", null ],
@@ -104,6 +107,8 @@ var hierarchy =
       [ "MorseClient", "class_morse_client.html", null ],
       [ "RTTYClient", "class_r_t_t_y_client.html", null ]
     ] ],
+    [ "RadioModeConfig_t", "union_radio_mode_config__t.html", null ],
+    [ "ReceiveConfig_t", "struct_receive_config__t.html", null ],
     [ "RFM22", "class_r_f_m22.html", null ],
     [ "RFM23", "class_r_f_m23.html", null ],
     [ "RFM95", "class_r_f_m95.html", null ],
@@ -112,9 +117,11 @@ var hierarchy =
     [ "RFM98", "class_r_f_m98.html", null ],
     [ "Module::RfSwitchMode_t", "struct_module_1_1_rf_switch_mode__t.html", null ],
     [ "RSSIScanConfig_t", "struct_r_s_s_i_scan_config__t.html", null ],
-    [ "spiClk_t", "unionspi_clk__t.html", null ],
+    [ "SleepConfig_t", "struct_sleep_config__t.html", null ],
     [ "Module::SPIConfig_t", "struct_module_1_1_s_p_i_config__t.html", null ],
     [ "SSTVClient", "class_s_s_t_v_client.html", null ],
     [ "SSTVMode_t", "struct_s_s_t_v_mode__t.html", null ],
-    [ "tone_t", "structtone__t.html", null ]
+    [ "StandbyConfig_t", "struct_standby_config__t.html", null ],
+    [ "tone_t", "structtone__t.html", null ],
+    [ "TransmitConfig_t", "struct_transmit_config__t.html", null ]
 ];
